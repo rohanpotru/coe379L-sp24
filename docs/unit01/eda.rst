@@ -222,7 +222,7 @@ it changes the existing DataFrame instead of creating a new one.
 
   # it's always good to confirm
   >>> cars.shape
-  (7523, 13)
+  (7179, 14)
 
 
 You can read more about ``drop()`` from the documentation [1]. 
